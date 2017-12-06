@@ -1,0 +1,6 @@
+[package]
+name = "mach-o-parser"
+version = "0.1.0"
+authors = ["guilherme"]
+
+[dependencies]
